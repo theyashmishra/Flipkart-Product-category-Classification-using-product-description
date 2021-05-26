@@ -1,4 +1,4 @@
-# MIDAS-Evaluation-Task-3-NLP
+# Flipkart Product category Classification(NLP)
 ## Task: To predict product category using product description
 The Task is Requirements are NLP(Natural Language Processing) and classification models.
 I have done this task in the Jupyter Notebook on Google colab as it provides good computations power(Higher RAM,Higher Space,GPU).
